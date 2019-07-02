@@ -1,0 +1,13 @@
+[I 16:46:15.243 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:46:15.248 NotebookApp] The port 8889 is already in use, trying another port.
+[I 16:46:15.409 NotebookApp] Serving notebooks from local directory: /Users/dxl/Documents/Python/Github/Lynie_tensorflow-tutorial
+[I 16:46:15.410 NotebookApp] 0 active kernels
+[I 16:46:15.411 NotebookApp] The Jupyter Notebook is running at:
+[I 16:46:15.411 NotebookApp] http://localhost:8890/?token=5eaf02d2dc827f40762f41352f5d266de0a59efd42c302f9
+[I 16:46:15.416 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:46:15.445 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8890/?token=5eaf02d2dc827f40762f41352f5d266de0a59efd42c302f9&token=5eaf02d2dc827f40762f41352f5d266de0a59efd42c302f9
+[I 16:46:16.249 NotebookApp] Accepting one-time-token-authenticated connection from ::1

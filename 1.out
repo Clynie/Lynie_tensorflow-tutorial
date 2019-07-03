@@ -11,3 +11,47 @@
     to login with a token:
         http://localhost:8890/?token=5eaf02d2dc827f40762f41352f5d266de0a59efd42c302f9&token=5eaf02d2dc827f40762f41352f5d266de0a59efd42c302f9
 [I 16:46:16.249 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[W 11:29:27.619 NotebookApp] Notebook Classification_of_MNIST .ipynb is not trusted
+[W 11:29:28.309 NotebookApp] Notebook Classification_of_MNIST .ipynb is not trusted
+[I 11:29:29.167 NotebookApp] Kernel started: 34acba4a-1c7e-469f-a81d-6d058859b394
+[I 11:29:34.064 NotebookApp] Adapting to protocol v5.1 for kernel 34acba4a-1c7e-469f-a81d-6d058859b394
+[I 11:31:29.067 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[W 11:31:29.067 NotebookApp] Notebook Classification_of_MNIST .ipynb is not trusted
+[I 11:33:29.083 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[W 11:33:29.084 NotebookApp] Notebook Classification_of_MNIST .ipynb is not trusted
+[I 11:34:08.003 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[W 11:34:08.004 NotebookApp] Notebook Classification_of_MNIST .ipynb is not trusted
+[I 11:34:12.330 NotebookApp] Starting buffering for 34acba4a-1c7e-469f-a81d-6d058859b394:37fb9e08bd684952968e3a9de01fb0d1
+[I 11:34:12.760 NotebookApp] Kernel restarted: 34acba4a-1c7e-469f-a81d-6d058859b394
+[I 11:34:15.459 NotebookApp] Adapting to protocol v5.1 for kernel 34acba4a-1c7e-469f-a81d-6d058859b394
+[I 11:34:15.461 NotebookApp] Restoring connection for 34acba4a-1c7e-469f-a81d-6d058859b394:37fb9e08bd684952968e3a9de01fb0d1
+[I 11:34:15.461 NotebookApp] Replaying 7 buffered messages
+[I 11:35:29.069 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:37:29.067 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:39:29.056 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:41:29.051 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:43:29.046 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:45:29.040 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:47:29.888 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:49:54.954 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:52:53.192 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 11:55:48.128 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:01:46.383 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:06:01.574 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:10:18.669 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:14:34.770 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:19:03.000 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:23:22.216 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:27:33.767 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:29:33.766 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:31:33.748 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:33:33.746 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:35:33.741 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:37:33.737 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:39:33.734 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:41:33.741 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:43:33.728 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:45:33.728 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:47:33.722 NotebookApp] Saving file at /Classification_of_MNIST .ipynb
+[I 12:48:32.096 NotebookApp] Kernel interrupted: 34acba4a-1c7e-469f-a81d-6d058859b394
+[I 12:49:16.653 NotebookApp] Saving file at /Classification_of_MNIST .ipynb

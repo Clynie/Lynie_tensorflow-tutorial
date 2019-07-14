@@ -1,3 +1,6 @@
+# Statement
+It is clone from [wing3s' github](https://github.com/wing3s/snake_game.git), the only thing I do is run in __python 3.7.3__ and __tensorflow 2.0.0-beta1__
+
 # Snake Game
 Play classic Nokia snake game by reinforcement learning with Keras. 
 This project is a great starting point to learn how reinforcement learning works and implementation of deep learning with Keras.
